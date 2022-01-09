@@ -46,8 +46,8 @@ jobs:
           git config --local user.email ${{ secrets.user_email }}
           git config --local user.name ${{ secrets.user_name }}
           git commit -m "update json"
-      - name: '[Git] fetch from master'
-        run: git fetch origin main
+      #- name: '[Git] fetch from master'
+      #  run: git fetch origin main
       - name: '[Git]Push changes'
         uses: ad-m/github-push-action@master
         with:
