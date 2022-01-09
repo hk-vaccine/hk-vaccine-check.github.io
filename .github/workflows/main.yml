@@ -42,8 +42,15 @@ jobs:
       - name: '[Git] add json file'
         run: git add .
       - name: '[Git] commit json = files'
-        run: git commit -m "update json"
+        run: |
+          git config --local user.email ${{ secrets.user_email }}
+          git config --local user.name ${{ secrets.user_name }}
+          git commit -m "update json"
       - name: '[Git] fetch from master'
         run: git fetch origin main
-      - name: '[Git] push code'
-        run: git push origin HEAD:main
+      - name: [Git]Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: 'main'
+        
