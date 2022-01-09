@@ -13,9 +13,6 @@
             "center_name_tc": "\u897f\u7063\u6cb3\u9ad4\u80b2\u9928\u793e\u5340\u75ab\u82d7\u63a5\u7a2e\u4e2d\u5fc3",
             "center_name_en": "Community Vaccination Centre, Sai Wan Ho Sports Centre CVC",
             "time_slots": {
-                  "2022-01-26": [
-                        "18:00"
-                  ],
                   "2022-02-08": [
                         "08:00",
                         "08:30",
@@ -62,9 +59,6 @@
             "center_name_tc": "\u66c9\u5149\u8857\u9ad4\u80b2\u9928\u793e\u5340\u75ab\u82d7\u63a5\u7a2e\u4e2d\u5fc3",
             "center_name_en": "Community Vaccination Centre, Hiu Kwong Street Sports Centre",
             "time_slots": {
-                  "2022-02-04": [
-                        "15:30"
-                  ],
                   "2022-02-07": [
                         "08:00",
                         "08:30",
@@ -384,9 +378,6 @@
             "center_name_tc": "\u5143\u6717\u9ad4\u80b2\u9928\u793e\u5340\u75ab\u82d7\u63a5\u7a2e\u4e2d\u5fc3",
             "center_name_en": "Community Vaccination Centre, Yuen Long Sports Centre",
             "time_slots": {
-                  "2022-01-10": [
-                        "11:00"
-                  ],
                   "2022-01-27": [
                         "08:00",
                         "08:30"
@@ -410,6 +401,7 @@
                         "09:00",
                         "09:30",
                         "10:30",
+                        "15:30",
                         "16:30",
                         "17:00",
                         "17:30",
