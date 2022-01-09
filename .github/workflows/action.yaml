@@ -3,7 +3,7 @@ name: 'hk_bnt_vaccine_booking_check'
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '* * * * *'
+    - cron:  '*/5 * * * *'
 
 # jobs: many jobs construct a whole Action
 jobs:
