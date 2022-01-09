@@ -37,6 +37,8 @@ jobs:
       - name: run python script
         run: |
             python ./.github/workflows/for_github_action.py
+      - name: switching from HTTPS to SSH
+        run: git remote set-url origin ${{ secrets.ssh }}
       - name: '[Git] add json file'
         run: git add .
       - name: '[Git] commit json = files'
