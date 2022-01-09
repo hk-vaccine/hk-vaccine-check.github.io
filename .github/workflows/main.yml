@@ -36,7 +36,7 @@ jobs:
           pip install -r requirements.txt
       - name: run python script
         run: |
-            python ./github/workflows/for_github_action.py
+            python ./.github/workflows/for_github_action.py
       - name: '[Git] add json file'
         run: git add .
       - name: '[Git] commit json = files'
