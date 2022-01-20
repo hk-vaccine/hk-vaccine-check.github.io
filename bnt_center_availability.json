@@ -827,13 +827,13 @@
             "center_name_en": "(BioNTech) Osman Ramju Sadick Memorial Sports Centre CVC",
             "time_slots": {
                   "2022-01-21": [
-                        "09:00"
+                        "08:00"
+                  ],
+                  "2022-01-23": [
+                        "08:00"
                   ],
                   "2022-01-30": [
                         "08:00"
-                  ],
-                  "2022-02-05": [
-                        "11:00"
                   ],
                   "2022-02-06": [
                         "09:30"
@@ -1063,6 +1063,10 @@
             "center_name_tc": "\u5143\u6717\u9ad4\u80b2\u9928\u793e\u5340\u75ab\u82d7\u63a5\u7a2e\u4e2d\u5fc3",
             "center_name_en": "Community Vaccination Centre, Yuen Long Sports Centre",
             "time_slots": {
+                  "2022-01-30": [
+                        "15:00",
+                        "18:30"
+                  ],
                   "2022-02-14": [
                         "08:00",
                         "08:30",
