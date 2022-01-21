@@ -3,12 +3,6 @@
             "center_name_tc": "\u9999\u6e2f\u4e2d\u6587\u5927\u5b78\u91ab\u9662\u793e\u5340\u75ab\u82d7\u63a5\u7a2e\u4e2d\u5fc3",
             "center_name_en": "Community Vaccination Centre, CUHK Medical Centre",
             "time_slots": {
-                  "2022-01-25": [
-                        "11:00"
-                  ],
-                  "2022-02-09": [
-                        "16:00"
-                  ],
                   "2022-02-21": [
                         "08:00"
                   ],
@@ -35,11 +29,7 @@
       "42": {
             "center_name_tc": "\u9999\u6e2f\u5927\u5b78\u99d0\u6e2f\u6021\u91ab\u9662\u793e\u5340\u75ab\u82d7\u63a5\u7a2e\u4e2d\u5fc3",
             "center_name_en": "Community Vaccination Centre, HKU at Gleneagles Hospital Hong Kong",
-            "time_slots": {
-                  "2022-02-07": [
-                        "15:00"
-                  ]
-            }
+            "time_slots": {}
       },
       "28": {
             "center_name_tc": "\u897f\u7063\u6cb3\u9ad4\u80b2\u9928\u793e\u5340\u75ab\u82d7\u63a5\u7a2e\u4e2d\u5fc3",
@@ -48,8 +38,8 @@
                   "2022-01-22": [
                         "15:00"
                   ],
-                  "2022-02-03": [
-                        "18:30"
+                  "2022-01-30": [
+                        "09:30"
                   ],
                   "2022-02-07": [
                         "09:00"
@@ -517,10 +507,10 @@
             "center_name_en": "Community Vaccination Centre, Lai Chi Kok Park Sports Centre",
             "time_slots": {
                   "2022-01-25": [
-                        "12:00"
+                        "10:30"
                   ],
-                  "2022-01-30": [
-                        "17:00"
+                  "2022-02-08": [
+                        "14:30"
                   ],
                   "2022-02-09": [
                         "08:00",
@@ -536,8 +526,7 @@
                         "08:00",
                         "08:30",
                         "12:00",
-                        "14:30",
-                        "15:00"
+                        "14:30"
                   ],
                   "2022-02-12": [
                         "19:00"
@@ -706,15 +695,25 @@
             "center_name_tc": "(\u5fa9\u5fc5\u6cf0)\u6797\u58eb\u5fb7\u9ad4\u80b2\u9928\u793e\u5340\u75ab\u82d7\u63a5\u7a2e\u4e2d\u5fc3",
             "center_name_en": "(BioNTech) Osman Ramju Sadick Memorial Sports Centre CVC",
             "time_slots": {
+                  "2022-01-22": [
+                        "08:30"
+                  ],
+                  "2022-01-24": [
+                        "14:30"
+                  ],
                   "2022-01-25": [
                         "15:00"
+                  ],
+                  "2022-01-28": [
+                        "10:30"
                   ],
                   "2022-02-04": [
                         "08:30"
                   ],
                   "2022-02-08": [
                         "08:00",
-                        "08:30"
+                        "08:30",
+                        "16:00"
                   ],
                   "2022-02-09": [
                         "08:00",
@@ -874,6 +873,7 @@
                         "16:30",
                         "17:00",
                         "17:30",
+                        "18:00",
                         "18:30"
                   ],
                   "2022-02-19": [
