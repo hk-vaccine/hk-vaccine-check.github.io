@@ -46,8 +46,10 @@
             "center_name_en": "Community Vaccination Centre, HKU at Gleneagles Hospital Hong Kong",
             "time_slots": {
                   "2022-01-30": [
-                        "12:30",
-                        "16:30"
+                        "12:30"
+                  ],
+                  "2022-02-13": [
+                        "14:30"
                   ]
             }
       },
@@ -1216,7 +1218,6 @@
             "center_name_en": "(BioNTech) Osman Ramju Sadick Memorial Sports Centre CVC",
             "time_slots": {
                   "2022-01-30": [
-                        "08:00",
                         "09:00",
                         "11:30",
                         "12:30"
