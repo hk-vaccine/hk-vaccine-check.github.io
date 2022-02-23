@@ -94,10 +94,12 @@
             "center_name_tc": "\u8354\u679d\u89d2\u516c\u5712\u9ad4\u80b2\u9928\u793e\u5340\u75ab\u82d7\u63a5\u7a2e\u4e2d\u5fc3",
             "center_name_en": "Community Vaccination Centre, Lai Chi Kok Park Sports Centre",
             "time_slots": {
+                  "2022-03-19": [
+                        "19:00"
+                  ],
                   "2022-03-21": [
                         "08:00",
                         "08:30",
-                        "16:30",
                         "19:00"
                   ],
                   "2022-03-22": [
@@ -147,9 +149,6 @@
             "center_name_tc": "(\u5fa9\u5fc5\u6cf0)\u6797\u58eb\u5fb7\u9ad4\u80b2\u9928\u793e\u5340\u75ab\u82d7\u63a5\u7a2e\u4e2d\u5fc3",
             "center_name_en": "(BioNTech) Osman Ramju Sadick Memorial Sports Centre CVC",
             "time_slots": {
-                  "2022-02-24": [
-                        "08:30"
-                  ],
                   "2022-03-12": [
                         "10:00"
                   ],
@@ -182,7 +181,6 @@
                         "10:00",
                         "10:30",
                         "11:00",
-                        "15:00",
                         "16:00",
                         "17:00"
                   ],
@@ -263,9 +261,6 @@
             "center_name_tc": "\u5143\u6717\u9ad4\u80b2\u9928\u793e\u5340\u75ab\u82d7\u63a5\u7a2e\u4e2d\u5fc3",
             "center_name_en": "Community Vaccination Centre, Yuen Long Sports Centre",
             "time_slots": {
-                  "2022-03-10": [
-                        "18:30"
-                  ],
                   "2022-03-11": [
                         "08:00"
                   ],
@@ -296,7 +291,6 @@
                         "11:30",
                         "12:00",
                         "12:30",
-                        "15:00",
                         "15:30",
                         "16:00",
                         "16:30",
