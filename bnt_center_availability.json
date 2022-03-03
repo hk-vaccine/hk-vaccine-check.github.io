@@ -2,14 +2,7 @@
       "36": {
             "center_name_tc": "\u9999\u6e2f\u4e2d\u6587\u5927\u5b78\u91ab\u9662\u793e\u5340\u75ab\u82d7\u63a5\u7a2e\u4e2d\u5fc3",
             "center_name_en": "Community Vaccination Centre, CUHK Medical Centre",
-            "time_slots": {
-                  "2022-03-24": [
-                        "08:00"
-                  ],
-                  "2022-03-29": [
-                        "17:30"
-                  ]
-            }
+            "time_slots": {}
       },
       "42": {
             "center_name_tc": "\u9999\u6e2f\u5927\u5b78\u99d0\u6e2f\u6021\u91ab\u9662\u793e\u5340\u75ab\u82d7\u63a5\u7a2e\u4e2d\u5fc3",
@@ -20,11 +13,12 @@
             "center_name_tc": "\u897f\u7063\u6cb3\u9ad4\u80b2\u9928\u793e\u5340\u75ab\u82d7\u63a5\u7a2e\u4e2d\u5fc3",
             "center_name_en": "Community Vaccination Centre, Sai Wan Ho Sports Centre CVC",
             "time_slots": {
-                  "2022-03-04": [
-                        "15:30"
-                  ],
                   "2022-03-07": [
+                        "12:00",
                         "14:30"
+                  ],
+                  "2022-03-13": [
+                        "16:30"
                   ],
                   "2022-03-22": [
                         "08:30"
@@ -135,6 +129,15 @@
             "center_name_tc": "\u66c9\u5149\u8857\u9ad4\u80b2\u9928\u793e\u5340\u75ab\u82d7\u63a5\u7a2e\u4e2d\u5fc3",
             "center_name_en": "Community Vaccination Centre, Hiu Kwong Street Sports Centre",
             "time_slots": {
+                  "2022-03-05": [
+                        "08:00"
+                  ],
+                  "2022-03-06": [
+                        "17:30"
+                  ],
+                  "2022-03-11": [
+                        "15:30"
+                  ],
                   "2022-03-23": [
                         "08:00",
                         "08:30"
@@ -222,6 +225,10 @@
             "center_name_tc": "\u8354\u679d\u89d2\u516c\u5712\u9ad4\u80b2\u9928\u793e\u5340\u75ab\u82d7\u63a5\u7a2e\u4e2d\u5fc3",
             "center_name_en": "Community Vaccination Centre, Lai Chi Kok Park Sports Centre",
             "time_slots": {
+                  "2022-03-04": [
+                        "09:30",
+                        "15:00"
+                  ],
                   "2022-03-23": [
                         "08:00",
                         "08:30",
@@ -354,13 +361,14 @@
             "center_name_en": "(BioNTech) Osman Ramju Sadick Memorial Sports Centre CVC",
             "time_slots": {
                   "2022-03-04": [
-                        "09:30"
+                        "09:30",
+                        "15:30"
                   ],
                   "2022-03-07": [
                         "08:30"
                   ],
-                  "2022-03-08": [
-                        "08:30"
+                  "2022-03-10": [
+                        "19:00"
                   ],
                   "2022-03-16": [
                         "08:00"
