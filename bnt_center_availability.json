@@ -3,10 +3,7 @@
             "center_name_tc": "\u9999\u6e2f\u4e2d\u6587\u5927\u5b78\u91ab\u9662\u793e\u5340\u75ab\u82d7\u63a5\u7a2e\u4e2d\u5fc3",
             "center_name_en": "Community Vaccination Centre, CUHK Medical Centre",
             "time_slots": {
-                  "2022-03-25": [
-                        "16:00"
-                  ],
-                  "2022-03-31": [
+                  "2022-03-21": [
                         "15:00"
                   ],
                   "2022-04-05": [
@@ -2286,7 +2283,6 @@
             "center_name_en": "Community Vaccination Centre, Yuen Long Sports Centre",
             "time_slots": {
                   "2022-03-21": [
-                        "09:00",
                         "11:00",
                         "16:30",
                         "17:00",
@@ -2314,6 +2310,7 @@
                         "09:00"
                   ],
                   "2022-03-26": [
+                        "08:00",
                         "08:30"
                   ],
                   "2022-03-27": [
