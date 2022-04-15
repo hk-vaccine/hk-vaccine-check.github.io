@@ -4,11 +4,12 @@
             "center_name_en": "Community Vaccination Centre, CUHK Medical Centre",
             "time_slots": {
                   "2022-04-15": [
-                        "17:30",
-                        "18:30"
+                        "17:30"
                   ],
                   "2022-04-16": [
-                        "08:00"
+                        "08:00",
+                        "11:00",
+                        "12:30"
                   ],
                   "2022-04-17": [
                         "08:00",
@@ -575,6 +576,7 @@
             "center_name_en": "Community Vaccination Centre, Sai Wan Ho Sports Centre CVC",
             "time_slots": {
                   "2022-04-15": [
+                        "15:00",
                         "15:30",
                         "16:00",
                         "16:30",
