@@ -4,8 +4,9 @@
             "center_name_en": "Community Vaccination Centre, CUHK Medical Centre",
             "time_slots": {
                   "2022-04-23": [
-                        "17:00",
-                        "18:30"
+                        "16:30",
+                        "18:30",
+                        "19:00"
                   ],
                   "2022-04-24": [
                         "08:00",
@@ -118,7 +119,9 @@
                   ],
                   "2022-04-30": [
                         "08:00",
-                        "08:30"
+                        "08:30",
+                        "16:30",
+                        "17:00"
                   ],
                   "2022-05-01": [
                         "08:00",
@@ -3119,7 +3122,6 @@
             "center_name_en": "Community Vaccination Centre, Yuen Long Sports Centre",
             "time_slots": {
                   "2022-04-23": [
-                        "14:30",
                         "15:00",
                         "15:30",
                         "16:00",
