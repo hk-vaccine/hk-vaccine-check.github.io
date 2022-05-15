@@ -4,14 +4,13 @@
             "center_name_en": "Community Vaccination Centre, CUHK Medical Centre",
             "time_slots": {
                   "2022-05-15": [
-                        "16:30"
+                        "18:00"
                   ],
                   "2022-05-16": [
                         "08:00",
                         "08:30",
                         "09:00",
-                        "09:30",
-                        "15:00"
+                        "09:30"
                   ],
                   "2022-05-17": [
                         "08:00",
@@ -69,9 +68,7 @@
                   "2022-05-20": [
                         "08:00",
                         "08:30",
-                        "10:00",
-                        "15:30",
-                        "18:00"
+                        "10:00"
                   ],
                   "2022-05-22": [
                         "08:00",
@@ -163,13 +160,12 @@
                   ],
                   "2022-05-27": [
                         "08:00",
-                        "08:30",
-                        "12:30"
+                        "08:30"
                   ],
                   "2022-05-29": [
                         "08:00",
                         "08:30",
-                        "11:00"
+                        "17:30"
                   ],
                   "2022-05-30": [
                         "08:00",
@@ -178,6 +174,7 @@
                         "09:30",
                         "10:00",
                         "10:30",
+                        "11:00",
                         "11:30",
                         "12:00",
                         "17:00",
@@ -414,7 +411,6 @@
             "center_name_en": "Community Vaccination Centre, Sai Wan Ho Sports Centre CVC",
             "time_slots": {
                   "2022-05-15": [
-                        "16:30",
                         "17:00",
                         "17:30",
                         "18:00",
@@ -527,8 +523,7 @@
                         "16:30",
                         "17:00",
                         "17:30",
-                        "18:00",
-                        "18:30"
+                        "18:00"
                   ],
                   "2022-05-21": [
                         "08:00",
@@ -976,7 +971,6 @@
             "center_name_en": "Community Vaccination Centre, Hiu Kwong Street Sports Centre",
             "time_slots": {
                   "2022-05-15": [
-                        "16:30",
                         "17:00",
                         "17:30",
                         "18:00",
@@ -1540,7 +1534,6 @@
             "center_name_en": "Community Vaccination Centre, Lai Chi Kok Park Sports Centre",
             "time_slots": {
                   "2022-05-15": [
-                        "16:30",
                         "17:00",
                         "17:30",
                         "18:00",
@@ -2103,7 +2096,6 @@
             "center_name_en": "(BioNTech) Osman Ramju Sadick Memorial Sports Centre CVC",
             "time_slots": {
                   "2022-05-15": [
-                        "16:30",
                         "17:00",
                         "17:30",
                         "18:00",
@@ -2668,7 +2660,6 @@
             "center_name_en": "Community Vaccination Centre, Yuen Long Sports Centre",
             "time_slots": {
                   "2022-05-15": [
-                        "16:30",
                         "17:00",
                         "17:30",
                         "18:00",
