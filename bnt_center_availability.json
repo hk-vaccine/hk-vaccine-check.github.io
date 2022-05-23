@@ -3,9 +3,6 @@
             "center_name_tc": "\u9999\u6e2f\u4e2d\u6587\u5927\u5b78\u91ab\u9662\u793e\u5340\u75ab\u82d7\u63a5\u7a2e\u4e2d\u5fc3",
             "center_name_en": "Community Vaccination Centre, CUHK Medical Centre",
             "time_slots": {
-                  "2022-05-24": [
-                        "12:30"
-                  ],
                   "2022-06-04": [
                         "08:00",
                         "08:30",
@@ -2320,8 +2317,7 @@
                         "11:30",
                         "12:00",
                         "12:30",
-                        "16:30",
-                        "18:00"
+                        "16:30"
                   ],
                   "2022-05-28": [
                         "08:00",
