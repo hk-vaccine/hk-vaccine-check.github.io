@@ -4,9 +4,10 @@
             "center_name_en": "Community Vaccination Centre, CUHK Medical Centre",
             "time_slots": {
                   "2022-06-08": [
-                        "16:30"
+                        "17:00"
                   ],
                   "2022-06-16": [
+                        "11:00",
                         "12:00",
                         "12:30",
                         "15:30"
@@ -1171,7 +1172,7 @@
             "center_name_en": "Community Vaccination Centre, Lai Chi Kok Park Sports Centre",
             "time_slots": {
                   "2022-06-06": [
-                        "14:30"
+                        "10:00"
                   ],
                   "2022-06-07": [
                         "10:30",
