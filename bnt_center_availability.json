@@ -15,7 +15,6 @@
                         "08:30",
                         "09:00",
                         "09:30",
-                        "10:30",
                         "12:30",
                         "15:30",
                         "16:00",
@@ -1185,6 +1184,7 @@
             "center_name_en": "Community Vaccination Centre, Lai Chi Kok Park Sports Centre",
             "time_slots": {
                   "2022-06-07": [
+                        "10:00",
                         "10:30",
                         "11:00",
                         "11:30",
