@@ -3,13 +3,10 @@
             "center_name_tc": "\u9999\u6e2f\u4e2d\u6587\u5927\u5b78\u91ab\u9662\u793e\u5340\u75ab\u82d7\u63a5\u7a2e\u4e2d\u5fc3",
             "center_name_en": "Community Vaccination Centre, CUHK Medical Centre",
             "time_slots": {
-                  "2022-06-10": [
-                        "14:30"
+                  "2022-06-14": [
+                        "16:30"
                   ],
-                  "2022-06-17": [
-                        "14:30"
-                  ],
-                  "2022-06-18": [
+                  "2022-06-16": [
                         "12:00"
                   ],
                   "2022-06-19": [
@@ -471,7 +468,6 @@
             "center_name_en": "Community Vaccination Centre, Sai Wan Ho Sports Centre CVC",
             "time_slots": {
                   "2022-06-07": [
-                        "12:30",
                         "14:30",
                         "15:00",
                         "15:30",
@@ -942,8 +938,6 @@
             "center_name_en": "Community Vaccination Centre, Hiu Kwong Street Sports Centre",
             "time_slots": {
                   "2022-06-07": [
-                        "12:30",
-                        "15:00",
                         "15:30",
                         "16:00"
                   ],
@@ -1403,7 +1397,7 @@
             "center_name_en": "Community Vaccination Centre, Lai Chi Kok Park Sports Centre",
             "time_slots": {
                   "2022-06-07": [
-                        "12:30",
+                        "14:30",
                         "15:00",
                         "15:30",
                         "16:00",
@@ -1871,7 +1865,6 @@
             "center_name_en": "(BioNTech) Osman Ramju Sadick Memorial Sports Centre CVC",
             "time_slots": {
                   "2022-06-07": [
-                        "12:30",
                         "14:30",
                         "15:00",
                         "15:30",
@@ -1917,7 +1910,8 @@
                         "15:00",
                         "15:30",
                         "16:00",
-                        "16:30"
+                        "16:30",
+                        "17:00"
                   ],
                   "2022-06-11": [
                         "08:00",
@@ -2340,7 +2334,6 @@
             "center_name_en": "Community Vaccination Centre, Yuen Long Sports Centre",
             "time_slots": {
                   "2022-06-07": [
-                        "12:30",
                         "14:30",
                         "15:00",
                         "15:30",
