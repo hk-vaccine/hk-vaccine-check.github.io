@@ -4,7 +4,6 @@
             "center_name_en": "Community Vaccination Centre, CUHK Medical Centre",
             "time_slots": {
                   "2022-06-22": [
-                        "15:30",
                         "16:00",
                         "16:30",
                         "17:00"
@@ -19,8 +18,7 @@
                         "15:00",
                         "15:30",
                         "16:00",
-                        "16:30",
-                        "17:00"
+                        "16:30"
                   ],
                   "2022-06-24": [
                         "10:30",
@@ -234,7 +232,8 @@
                         "15:00",
                         "15:30",
                         "16:00",
-                        "16:30"
+                        "16:30",
+                        "17:00"
                   ],
                   "2022-07-09": [
                         "08:00",
@@ -443,7 +442,6 @@
             "center_name_en": "Community Vaccination Centre, HKU at Gleneagles Hospital Hong Kong",
             "time_slots": {
                   "2022-06-22": [
-                        "15:30",
                         "16:00",
                         "16:30",
                         "17:00"
@@ -623,7 +621,6 @@
             "center_name_en": "Community Vaccination Centre, Sai Wan Ho Sports Centre CVC",
             "time_slots": {
                   "2022-06-22": [
-                        "15:30",
                         "16:00",
                         "16:30",
                         "17:00"
@@ -1091,7 +1088,6 @@
             "center_name_en": "Community Vaccination Centre, Hiu Kwong Street Sports Centre",
             "time_slots": {
                   "2022-06-22": [
-                        "15:30",
                         "16:00",
                         "16:30",
                         "17:00"
@@ -1559,7 +1555,6 @@
             "center_name_en": "Community Vaccination Centre, Lai Chi Kok Park Sports Centre",
             "time_slots": {
                   "2022-06-22": [
-                        "15:30",
                         "16:00",
                         "16:30",
                         "17:00"
@@ -2027,7 +2022,6 @@
             "center_name_en": "(BioNTech) Osman Ramju Sadick Memorial Sports Centre CVC",
             "time_slots": {
                   "2022-06-22": [
-                        "15:30",
                         "16:00",
                         "16:30",
                         "17:00"
@@ -2493,7 +2487,6 @@
             "center_name_en": "Community Vaccination Centre, Yuen Long Sports Centre",
             "time_slots": {
                   "2022-06-22": [
-                        "15:30",
                         "16:00",
                         "16:30",
                         "17:00"
