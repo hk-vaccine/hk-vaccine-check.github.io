@@ -4,7 +4,6 @@
             "center_name_en": "Community Vaccination Centre, CUHK Medical Centre",
             "time_slots": {
                   "2022-08-07": [
-                        "16:00",
                         "16:30",
                         "17:00",
                         "17:30",
@@ -13,7 +12,6 @@
                         "19:00"
                   ],
                   "2022-08-08": [
-                        "11:30",
                         "12:00",
                         "12:30",
                         "15:30",
