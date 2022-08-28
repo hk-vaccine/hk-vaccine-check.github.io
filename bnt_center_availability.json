@@ -4,7 +4,8 @@
             "center_name_en": "Community Vaccination Centre, CUHK Medical Centre",
             "time_slots": {
                   "2022-08-28": [
-                        "16:30"
+                        "16:30",
+                        "18:00"
                   ],
                   "2022-08-30": [
                         "15:30"
@@ -22,6 +23,9 @@
                   "2022-09-01": [
                         "12:00",
                         "12:30"
+                  ],
+                  "2022-09-02": [
+                        "11:30"
                   ],
                   "2022-09-04": [
                         "08:00",
@@ -1078,6 +1082,7 @@
             "center_name_en": "Community Vaccination Centre, Hiu Kwong Street Sports Centre",
             "time_slots": {
                   "2022-08-28": [
+                        "15:00",
                         "15:30",
                         "16:00",
                         "16:30",
