@@ -10,9 +10,6 @@
                         "11:30",
                         "15:30"
                   ],
-                  "2022-08-30": [
-                        "10:00"
-                  ],
                   "2022-08-31": [
                         "12:00",
                         "12:30",
@@ -1051,7 +1048,6 @@
             "center_name_en": "Community Vaccination Centre, Hiu Kwong Street Sports Centre",
             "time_slots": {
                   "2022-08-29": [
-                        "10:00",
                         "10:30",
                         "11:00",
                         "11:30",
