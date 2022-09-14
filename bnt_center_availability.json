@@ -4,6 +4,7 @@
             "center_name_en": "Community Vaccination Centre, CUHK Medical Centre",
             "time_slots": {
                   "2022-09-18": [
+                        "16:30",
                         "19:00"
                   ],
                   "2022-09-19": [
@@ -55,8 +56,7 @@
                         "12:00",
                         "12:30",
                         "14:30",
-                        "15:00",
-                        "16:30"
+                        "15:00"
                   ],
                   "2022-09-24": [
                         "08:00",
@@ -365,7 +365,6 @@
             "center_name_en": "Community Vaccination Centre, HKU at Gleneagles Hospital Hong Kong",
             "time_slots": {
                   "2022-09-19": [
-                        "10:00",
                         "10:30",
                         "11:00",
                         "11:30",
