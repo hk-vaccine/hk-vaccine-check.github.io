@@ -3,9 +3,9 @@
             "center_name_tc": "\u9999\u6e2f\u4e2d\u6587\u5927\u5b78\u91ab\u9662\u793e\u5340\u75ab\u82d7\u63a5\u7a2e\u4e2d\u5fc3",
             "center_name_en": "Community Vaccination Centre, CUHK Medical Centre",
             "time_slots": {
-                  "2022-09-16": [
-                        "16:00",
-                        "16:30"
+                  "2022-09-19": [
+                        "10:30",
+                        "12:00"
                   ],
                   "2022-09-20": [
                         "11:30",
@@ -379,7 +379,6 @@
             "center_name_en": "Community Vaccination Centre, HKU at Gleneagles Hospital Hong Kong",
             "time_slots": {
                   "2022-09-19": [
-                        "10:00",
                         "10:30",
                         "11:00",
                         "11:30",
@@ -580,10 +579,8 @@
             "center_name_en": "Community Vaccination Centre, Sai Wan Ho Sports Centre CVC",
             "time_slots": {
                   "2022-09-16": [
-                        "15:30",
                         "16:00",
-                        "16:30",
-                        "17:00"
+                        "16:30"
                   ],
                   "2022-09-17": [
                         "08:00",
@@ -1048,7 +1045,8 @@
             "center_name_en": "Community Vaccination Centre, Hiu Kwong Street Sports Centre",
             "time_slots": {
                   "2022-09-16": [
-                        "15:30"
+                        "16:00",
+                        "16:30"
                   ],
                   "2022-09-17": [
                         "08:00",
@@ -1061,6 +1059,7 @@
                         "11:30",
                         "12:00",
                         "12:30",
+                        "14:30",
                         "15:30",
                         "16:00",
                         "16:30",
@@ -1511,9 +1510,7 @@
             "center_name_en": "Community Vaccination Centre, Lai Chi Kok Park Sports Centre",
             "time_slots": {
                   "2022-09-16": [
-                        "15:30",
-                        "16:00",
-                        "16:30"
+                        "16:00"
                   ],
                   "2022-09-17": [
                         "08:00",
@@ -2372,9 +2369,9 @@
             "center_name_en": "Community Vaccination Centre, Yuen Long Sports Centre",
             "time_slots": {
                   "2022-09-16": [
-                        "15:30",
                         "16:00",
-                        "16:30"
+                        "16:30",
+                        "17:00"
                   ],
                   "2022-09-17": [
                         "08:00",
