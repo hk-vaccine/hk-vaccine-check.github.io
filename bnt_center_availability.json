@@ -4,7 +4,7 @@
             "center_name_en": "Community Vaccination Centre, CUHK Medical Centre",
             "time_slots": {
                   "2022-09-17": [
-                        "10:00"
+                        "09:00"
                   ],
                   "2022-09-19": [
                         "12:30"
@@ -1963,10 +1963,8 @@
             "center_name_en": "(BioNTech) Osman Ramju Sadick Memorial Sports Centre CVC",
             "time_slots": {
                   "2022-09-17": [
-                        "08:30",
                         "15:00",
-                        "15:30",
-                        "18:30"
+                        "15:30"
                   ],
                   "2022-09-18": [
                         "08:00",
