@@ -4,7 +4,6 @@
             "center_name_en": "Community Vaccination Centre, CUHK Medical Centre",
             "time_slots": {
                   "2022-11-29": [
-                        "16:00",
                         "16:30",
                         "17:00"
                   ],
@@ -23,7 +22,6 @@
                         "17:00"
                   ],
                   "2022-12-01": [
-                        "12:00",
                         "15:00",
                         "15:30",
                         "16:00",
@@ -38,8 +36,7 @@
                         "14:30",
                         "15:00",
                         "15:30",
-                        "16:00",
-                        "16:30"
+                        "16:00"
                   ],
                   "2022-12-03": [
                         "08:00",
@@ -852,7 +849,6 @@
             "center_name_en": "(BioNTech) Osman Ramju Sadick Memorial Sports Centre CVC",
             "time_slots": {
                   "2022-11-29": [
-                        "16:00",
                         "16:30",
                         "17:00"
                   ],
@@ -1319,7 +1315,6 @@
             "center_name_en": "Community Vaccination Centre, Yuen Long Sports Centre",
             "time_slots": {
                   "2022-11-29": [
-                        "16:00",
                         "16:30",
                         "17:00"
                   ],
