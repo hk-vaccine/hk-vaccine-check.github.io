@@ -11,8 +11,7 @@
                         "17:00",
                         "17:30",
                         "18:00",
-                        "18:30",
-                        "19:00"
+                        "18:30"
                   ],
                   "2022-12-04": [
                         "08:00",
@@ -454,7 +453,6 @@
             "center_name_en": "Community Vaccination Centre, HKU at Gleneagles Hospital Hong Kong",
             "time_slots": {
                   "2022-12-05": [
-                        "10:30",
                         "15:30"
                   ],
                   "2022-12-07": [
